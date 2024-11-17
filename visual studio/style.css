@@ -64,3 +64,55 @@ h2{
 .tamaño{
     width: 200;
 }
+
+.cursos-xpand{
+}
+
+.react-xpand{
+    background-color: #f2efed;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center
+}
+
+.react-xpand-img img{
+    width: 35rem;
+}
+
+.react-xpand-txt{
+    color: #4c4b9a;
+    margin-left: 20px;
+}
+
+li{
+    margin-top: 12px;
+    
+}
+
+.boton-js{
+    color:rgb(214, 207, 207);
+    font-size: 20px;
+    border-radius: 20 px;
+    background-color: rgb(70, 114, 114);
+    margin: 15px;
+    border: 3px solid;
+    padding: 10px 20px;
+}
+#resultado{
+    color:#f2efed; 
+    }
+
+.ract-tema.tachado{
+    text-decoration: line-through;
+}
+
+.boton-tachado{
+    color:rgb(214, 207, 207);
+    font-size: 20px;
+    border-radius: 20 px;
+    background-color: rgb(70, 114, 114);
+    margin: 15px;
+    border: 3px solid;
+    padding: 10px 20px;
+}
